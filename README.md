@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🧟‍♂️ Tools & Technologies
+
+| Programming Languages | Tools | Cloud & DevOps |
+| --------------------- | ----- | -------------- |
+| ![Python](https://img.shields.io/badge/-Python-0A0F5A?style=for-the-badge&logo=python&logoColor=yellow) | ![Docker](https://img.shields.io/badge/-Docker-0A0F5A?style=for-the-badge&logo=docker&logoColor=white) | ![GCP](https://img.shields.io/badge/-Google%20Cloud-0A0F5A?style=for-the-badge&logo=google-cloud) |
+| ![C](https://img.shields.io/badge/-C-0A0F5A?style=for-the-badge&logo=c) | ![Git](https://img.shields.io/badge/-Git-0A0F5A?style=for-the-badge&logo=git&logoColor=white) | ![Terraform](https://img.shields.io/badge/-Terraform-0A0F5A?style=for-the-badge&logo=terraform) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0F5A?style=for-the-badge&logo=javascript&logoColor=yellow) | ![Vite](https://img.shields.io/badge/-Vite-0A0F5A?style=for-the-badge&logo=vite) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0A0F5A?style=for-the-badge&logo=kubernetes) |
